@@ -22,6 +22,6 @@ I'm a 2nd-year Artificial Intelligence Engineering student at New Mansoura Unive
 - **Task Management System:** A robust desktop To-Do List application developed using C# and Windows Forms, strictly applying Object-Oriented Programming (OOP) principles.
 
 ### 📫 Let's Connect
-- **Email:** engadam149@gmail.com
+- **Email:** adamelmowafi10@gmail.com
 - **LinkedIn:** [Adam Elmowafi](https://www.linkedin.com/in/adam-elmowafi-7b4519347/)
   
